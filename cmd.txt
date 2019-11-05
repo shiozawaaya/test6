@@ -1,1 +1,6 @@
 npm init
+git init
+git add -A
+git commit -m 'init'
+git remote add origin https://github.com/shiozawaaya/test8
+git push -f origin master
